@@ -48,7 +48,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Error
 
-While running  ### `npm start`. if your are facing [ 'error:03000086:digital envelope routines::initialization error' ].
+While running  `npm start`. if your are facing [ 'error:03000086:digital envelope routines::initialization error' ].
 The error comes from your dependency relying on an obsolete version of SSL
 ## Fix
 
