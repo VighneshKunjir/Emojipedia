@@ -58,6 +58,6 @@ Edit the package.json file with below changes:
     "build": "react-scripts --openssl-legacy-provider build"
   }
 
-# More 
+## More 
 for more info read - https://stackoverflow.com/questions/74726224/opensslerrorstack-error03000086digital-envelope-routinesinitialization-e
                    - https://stackoverflow.com/questions/69692842/error-message-error0308010cdigital-envelope-routinesunsupported
