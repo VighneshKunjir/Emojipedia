@@ -1,13 +1,12 @@
 # EmojiPedia Web Application
 EmojiPedia is a React-based web application that serves as your go-to guide for emojis! This application allows users to explore a collection of emojis along with their names and descriptions.
 
-##Features
+## Features
 - Emoji Database: Browse through an extensive collection of emojis.
 - Add your own: You can contribute by adding your emoji and description in file emojipedia.js. Path- src/emojipedia.js
 - Detailed Information: Each emoji comes with its name and a brief description, providing insights into its meaning and usage.
 - User-Friendly Interface: The application is designed to be intuitive and easy to navigate, ensuring a seamless user experience.
 - Responsive Design: Enjoy EmojiPedia on any device, whether it's a desktop, tablet, or smartphone.
-- 
 
 ## Node scripts
 
